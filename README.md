@@ -1,7 +1,6 @@
-# 🚨 Alert - Before Starting to use this code (Please read it)
 
 
-The issue with the video tutorial that I stated in [my video](https://youtu.be/-KOZwDkWpJE "How to Make an Auto Complete Search Input in React.js") is taken from the Library known as [React-Places-Autocomplete](https://www.npmjs.com/package/react-places-autocomplete) and it does work really well
+
 
 <h4>But, however the problem I faced with it, is that you may not able to access the state(as per the code below) of this library to your other component via props</h4> 
 
